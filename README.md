@@ -21,7 +21,16 @@
 
 <br>
 
- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+
+![Mohammed Gadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=msgadi&show_icons=true&theme=synthwave)
+
+<a href="https://github.com/msgadi">
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=msgadi&theme=light&hide_langs_below=1" />
+</a>
+
+<br>
 
 <h2 align="left" id="msgadi-tech">Favorite Tech</h2>
 
