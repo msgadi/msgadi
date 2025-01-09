@@ -14,7 +14,7 @@
   </a> 
 </p> 
 
-- :office: &nbsp;I'm currently working at **[Juyushi Software]**
+- :office: &nbsp;I'm currently working at **[Nearform]**
 - :speech_balloon: &nbsp;I like to talk about **Full Stack Development and DevOps** and other **OSS**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
