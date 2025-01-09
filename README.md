@@ -103,6 +103,6 @@
 
 <!-- links -->
 
-[Juyushi Software]: https://github.com/juyushi "Juyushi Software Github Home"
+[Nearform]: https://www.nearform.com/ "nearform"
 [linkedin]: https://www.linkedin.com/in/mohammedgadi/ "Mohammed S. Gadi LinkedIn"
 [blog]: https://mohammedgadi.com/ "My Blog"
